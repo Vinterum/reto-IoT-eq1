@@ -1,1 +1,1 @@
-# reto-IoT-eq1
+# Documentación GateGuard
