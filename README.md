@@ -28,11 +28,11 @@ Dr. Sergio Camacho
 	al servidor mediante módulo de Wifi se encuentra en el archivo GateGuard.ino
 	
 	Lenguaje de programación:
-   		- C++ para Arduino  
+	- C++ para Arduino  
 	Librerías:
-    		- Servo.h: Para controlar el servo dispensador de gel
+	- Servo.h: Para controlar el servo dispensador de gel
 	IDE:
-	  	- Sección de código en Tinkercad
+	- Sección de código en Tinkercad
 		
 Hardware Usado:
 ![Hardware](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Componentes.png)
