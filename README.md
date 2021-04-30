@@ -20,7 +20,7 @@ Dr. Sergio Camacho
 ![Arquitecura GateGuard](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Dise%C3%B1o%20IoT.png?raw=true)
 
 ###### Circuito 
-![Circuito]https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Circuito%20GateGuardian.png
+![Circuito](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Circuito%20GateGuardian.png)
 
 ###### Código del circuito (https://github.com/Vinterum/reto-IoT-eq1/tree/main/Codigo)
 
