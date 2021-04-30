@@ -9,7 +9,7 @@
 **Materia:** Implementación de internet de las cosas
 
 **Profesor:**
-Dr. Lorena G. Gómez Martínez
+Dr. Antonio Carlos Bento
 Dr. Sergio Camacho
 
 **Fecha:** 30/04/2021
