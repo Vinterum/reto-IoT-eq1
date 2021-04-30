@@ -37,8 +37,17 @@ Dr. Sergio Camacho
 Hardware Usado:
 ![Hardware](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Componentes.png)
 
+## Base de datos
+	Servidor usado:
+	- Apex (Oracle Corporation, 2020)
+		
+![Detalles BD](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Base%20de%20datos%20detalles.png)
+![Ejemplo BD](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Ejemplo%20base%20de%20datos.png)
 
-
-
-
-
+## Dashboard
+	Desarrollado con el creador de aplicaciones de Apex
+![Aplicacion](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Dashboard%201.png)
+![Aplicacion](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Dashboard%202.png)
+![Aplicacion](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Dashboard%203.png)
+![Aplicacion](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Dashboard%204.png)
+![Aplicacion](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Dashboard%205.png)
