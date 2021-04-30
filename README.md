@@ -53,4 +53,4 @@ Hardware Usado:
 ![Aplicacion](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Dashboard%205.png)
 
 ## Video demostración
-[![Youtube VideoT](https://youtu.be/Ei9LyjSiH8c "IoT - GateGuard demostración funcional")
+[![Youtube VideoT](http://img.youtube.com/vi/Ei9LyjSiH8c/hqdefault.jpg)](https://youtu.be/Ei9LyjSiH8c "IoT - GateGuard demostración funcional")
