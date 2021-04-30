@@ -21,22 +21,28 @@ Dr. Sergio Camacho
 
 ###### Código del circuito (https://github.com/Vinterum/reto-IoT-eq1/tree/main/Codigo)
 
-	Hay dos códigos 'sensores.cpp' y 'ac.cpp' cada uno para su respectivo node.
+	El código entero con el funcionamiento de los sensores, actuadores, así como de la transmisión de los datos
+	al servidor mediante módulo de Wifi se encuentra en el archivo GateGuard.ino
 	
 	Lenguaje de programación:
    		- C++ para Arduino  
 	Librerías:
-    		- Arduino Json versión 5.0: Librería para poder hacer funcionar la librería de FirebaseArduino
-			- FirebaseArduino: Librería para poder conectarse con la DB de Firebase Realtime Database
-    		- ESP8266WiFi: Librería para poder conectar el NodeMCU a la red WiFi
-    		- NewPing: Librería para facilitar el uso del sensor HC-SR04
-    		- DHT: Librería para usar el sensor DHT 11
+    		- Servo.h: Para controlar el servo dispensador de gel
 		
   	Hardware Usado:
-    		- DHT11: Sensor de temperatura y humedad
-    		- HC-SR04: Sensor ultrasónico
-    		- Foco LED de 5mm
-    		- Resistencia 220 Ω
-    		- Node MCU ESP8266 V2
+    		-  Módulo Wi-Fi (ESP8266)
+    		-  330 Ω Resistencia
+    		-  1 kΩ Resistencia
+    		-  5 kΩ Resistencia
+    		-  LED Rojo
+    		-  Sensor de temperatura [TMP36]
+    		-  Sensor de distancia ultrasónico
+    		-  Sensor PIR
+    		-  Buzzer [Piezo pequeño]
+    		-  Microservomotor
+    	![hardware circuit](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Componentes.png)
+
 	IDE:
-	  	- Arduino IDE
+	  	- Sección de código en Tinkercad
+
+
