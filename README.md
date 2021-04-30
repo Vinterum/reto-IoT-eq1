@@ -19,10 +19,10 @@ Dr. Sergio Camacho
 ## Arquitectura del proyecto
 ![Arquitecura GateGuard](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Dise%C3%B1o%20IoT.png?raw=true)
 
-###### Circuito 
+## Circuito 
 ![Circuito](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Circuito%20GateGuardian.png)
 
-###### Código del circuito (https://github.com/Vinterum/reto-IoT-eq1/tree/main/Codigo)
+#### Código del circuito (https://github.com/Vinterum/reto-IoT-eq1/tree/main/Codigo)
 
 	El código entero con el funcionamiento de los sensores, actuadores, así como de la transmisión de los datos
 	al servidor mediante módulo de Wifi se encuentra en el archivo GateGuard.ino
