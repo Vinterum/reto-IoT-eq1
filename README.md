@@ -9,8 +9,8 @@
 **Materia:** Implementación de internet de las cosas
 
 **Profesor:**
-Dr. Antonio Carlos Bento
-Dr. Sergio Camacho
+- Dr. Antonio Carlos Bento
+- Dr. Sergio Camacho
 
 **Fecha:** 30/04/2021
 
