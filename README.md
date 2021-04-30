@@ -29,7 +29,11 @@ Dr. Sergio Camacho
 	Librerías:
     		- Servo.h: Para controlar el servo dispensador de gel
 		
-  	Hardware Usado:
+Hardware Usado:
+![hardware circuit](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Componentes.png)
+
+	IDE:
+	  	- Sección de código en Tinkercad
     		-  Módulo Wi-Fi (ESP8266)
     		-  330 Ω Resistencia
     		-  1 kΩ Resistencia
@@ -40,9 +44,5 @@ Dr. Sergio Camacho
     		-  Sensor PIR
     		-  Buzzer [Piezo pequeño]
     		-  Microservomotor
-    	![hardware circuit](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Componentes.png)
-
-	IDE:
-	  	- Sección de código en Tinkercad
 
 
