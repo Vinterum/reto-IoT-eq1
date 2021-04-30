@@ -19,6 +19,9 @@ Dr. Sergio Camacho
 ## Arquitectura del proyecto
 ![Arquitecura GateGuard](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Dise%C3%B1o%20IoT.png?raw=true)
 
+###### Circuito 
+![Circuito]https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Circuito%20GateGuardian.png
+
 ###### Código del circuito (https://github.com/Vinterum/reto-IoT-eq1/tree/main/Codigo)
 
 	El código entero con el funcionamiento de los sensores, actuadores, así como de la transmisión de los datos
@@ -28,21 +31,14 @@ Dr. Sergio Camacho
    		- C++ para Arduino  
 	Librerías:
     		- Servo.h: Para controlar el servo dispensador de gel
-		
-Hardware Usado:
-![hardware circuit](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Componentes.png)
-
 	IDE:
 	  	- Sección de código en Tinkercad
-    		-  Módulo Wi-Fi (ESP8266)
-    		-  330 Ω Resistencia
-    		-  1 kΩ Resistencia
-    		-  5 kΩ Resistencia
-    		-  LED Rojo
-    		-  Sensor de temperatura [TMP36]
-    		-  Sensor de distancia ultrasónico
-    		-  Sensor PIR
-    		-  Buzzer [Piezo pequeño]
-    		-  Microservomotor
+		
+Hardware Usado:
+![Hardware](https://github.com/Vinterum/reto-IoT-eq1/blob/main/Im%C3%A1genes/Componentes.png)
+
+
+
+
 
 
